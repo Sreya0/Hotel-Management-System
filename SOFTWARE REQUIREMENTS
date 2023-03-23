@@ -1,0 +1,3 @@
+Operating System: Windows 7
+Front end (UI) design and software used : Here we used php for designing the  frontend of the hotel management system and we		can  use several frameworks and tools that can be used to  design  UIs in PHP like Bootstrap,jQuery etc…And	When  it comes to software commonly used are Adobe XD &  Canva.
+Back end (Database) design, software used : Language used is SQL and for designing the  back-end we identified the entities,defined	the  relationships,normalized the data,defined the table  structure,created database ,added constraints and finally  populated the data.Software that is used to create and  manage the database are Oracle SQL Developer and  SQLite	Database Browser.
